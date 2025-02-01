@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "author": "Google Inc.",
     "dependencies": {
-        "@google-cloud/aiplatform": "^3.0.0",
+        "@google-cloud/aiplatform": "^3.34.0",
         "@google/generative-ai": "^0.1.0"
     }
 }
